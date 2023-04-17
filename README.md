@@ -1,4 +1,4 @@
-# Code testing
+# Access to elements in multidimensional array
 
 ## Table of contents
 
@@ -8,7 +8,12 @@
 
 ## General info
 
-This project is created for ASDC lab work #3.14. Implementation of unit tests for created classes.
+This project is created for ASDC lab work #4. Implementation of 3 methods of getting access
+to elements in multidimensional array:
+
+1. direct access to vector elements
+2. access via Iliffe vectors
+3. method of defining vectors (representation in RAM is performed by columns and rows).
 
 ## Technologies
 
